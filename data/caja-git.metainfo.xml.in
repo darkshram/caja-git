@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <translation type="gettext">caja-git</translation>
+  <id>caja-git</id>
+  <extends>org.mate.caja</extends>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <_name>Caja Git Integration</_name>
+  <_summary>Caja extension to add important information about the current git directory</_summary>
+  <description>
+    <_p>Caja extension to add important information about the current git directory. This project is based on the code of nautilus-caja by Bilal Elmoussaoui.</_p>
+    <ul>
+      <_li>Switch branches</_li>
+      <_li>Compare commits</_li>
+    </ul>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/dakshram/caja-git/master/screenshots/screenshot1.png</image>
+    </screenshot>
+  </screenshots>
+  <developer_name>Joel Barrios</developer_name>
+  <url type="homepage">https://github.com/dakshram/caja-git</url>
+  <url type="bugtracker">https://github.com/dakshram/caja-git/issues</url>
+  ​</component>
