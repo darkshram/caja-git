@@ -9,7 +9,7 @@ This project is based on [nautilus-git by Bilal Elmoussaoui](https://github.com/
 
 - `python2`
 - `git`
-- `caja-python` or `python2-caja`
+- `caja-python` or `python2-caja` >= 1.17.0
 
 
 
