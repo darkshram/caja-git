@@ -5,10 +5,12 @@ This porject is based on nautilus-git by Bilal Elmoussaoui.
 
 ## Screenshots
 
- <div align="center"><img src="screenshots/screenshot1.png" alt="Preview" /></div>
 
- <div align="center"><img src="screenshots/screenshot2.png" alt="Preview" /></div>
+![Caja main window](screenshots/screenshot1.png?raw=true "Caja main window")
 
+![Compare commits](screenshots/screenshot2.png?raw=true "Compare commits")
+
+![Caja Git tab in properties window](screenshots/screenshot3.png?raw=true "Caja Git tab in properties window")
 
 
 ## Requirements:
@@ -83,4 +85,5 @@ PS : Replace `/usr` with whatever installation prefix you have chosen before.
 
 ## Credits
 
+Code was originally written by Bilal Elmoussaoui.
 The `caja-git-symbolic` icon was designed by gitg design team.
