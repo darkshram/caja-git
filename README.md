@@ -1,27 +1,11 @@
 # caja-git
 
 Caja extension to add important information about the current git directory.
-This porject is based on nautilus-git by Bilal Elmoussaoui.
-
-## Screenshots
-
-
-![Caja main window](screenshots/screenshot1.png?raw=true "Caja main window")
-
-![Compare commits](screenshots/screenshot2.png?raw=true "Compare commits")
-
-![Changes detected](screenshots/screenshot3.png?raw=true "Changes detected")
-
-![New files detected](screenshots/screenshot4.png?raw=true "New files detected")
-
-![Caja Git tab in properties window](screenshots/screenshot5.png?raw=true "Caja Git tab in properties window")
-
-![Compare commits](screenshots/screenshot6.png?raw=true "Compare commits")
-
+This project is based on [nautilus-git by Bilal Elmoussaoui](https://github.com/bil-elmoussaoui/nautilus-git).
 
 ## Requirements:
 
-### Runing dependecies
+### Running dependencies
 
 - `python2`
 - `git`
@@ -69,7 +53,7 @@ caja -q
 
 ## How to uninstall
 
-1- Download the uninstallation file
+1- Download the uninstall script.
 
 ```bash
 cd /tmp && wget -O uninstall.sh https://raw.githubusercontent.com/darkshram/caja-git/master/uninstall.sh
@@ -91,5 +75,21 @@ PS : Replace `/usr` with whatever installation prefix you have chosen before.
 
 ## Credits
 
-Code was originally written by Bilal Elmoussaoui.
-The `caja-git-symbolic` icon was designed by gitg design team.
+- Code was originally written by Bilal Elmoussaoui.
+- The `caja-git-symbolic` icon was designed by gitg design team.
+
+## Screenshots
+
+
+![Caja main window](screenshots/screenshot1.png?raw=true "Caja main window")
+
+![Compare commits](screenshots/screenshot2.png?raw=true "Compare commits")
+
+![Changes detected](screenshots/screenshot3.png?raw=true "Changes detected")
+
+![New files detected](screenshots/screenshot4.png?raw=true "New files detected")
+
+![Caja Git tab in properties window](screenshots/screenshot5.png?raw=true "Caja Git tab in properties window")
+
+![Compare commits](screenshots/screenshot6.png?raw=true "Compare commits")
+
