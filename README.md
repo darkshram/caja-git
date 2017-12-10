@@ -10,7 +10,13 @@ This porject is based on nautilus-git by Bilal Elmoussaoui.
 
 ![Compare commits](screenshots/screenshot2.png?raw=true "Compare commits")
 
-![Caja Git tab in properties window](screenshots/screenshot3.png?raw=true "Caja Git tab in properties window")
+![Changes detected](screenshots/screenshot3.png?raw=true "Changes detected")
+
+![New files detected](screenshots/screenshot4.png?raw=true "New files detected")
+
+![Caja Git tab in properties window](screenshots/screenshot5.png?raw=true "Caja Git tab in properties window")
+
+![Compare commits](screenshots/screenshot6.png?raw=true "Compare commits")
 
 
 ## Requirements:
