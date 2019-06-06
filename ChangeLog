@@ -1,3 +1,9 @@
+commit 6f37790e37588d156e385bb6740c681718dd9a80
+Author: Joel Barrios <darkshram@gmail.com>
+Date:   Thu Jun 106 04:10:10 2019 -0600
+
+    Fix extends tag in appdata file.
+
 commit 7c8a4c3ba9621860b2f282b744ce8203c4011c14
 Author: Joel Barrios <darkshram@gmail.com>
 Date:   Sun Dec 10 06:24:40 2017 -0600
