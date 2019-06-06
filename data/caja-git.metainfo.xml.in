@@ -2,7 +2,7 @@
 <component type="addon">
   <translation type="gettext">caja-git</translation>
   <id>caja-git</id>
-  <extends>org.mate.caja</extends>
+  <extends>ocaja.desktop</extends>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0+</project_license>
   <_name>Caja Git Integration</_name>
