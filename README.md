@@ -1,3 +1,9 @@
+# Note: This project is obsolete.
+
+Please use RabbitVCS caja extension.
+
+You may still use caja-git only with python2-caja (MATE Desktop < 1.20).
+
 # caja-git
 
 Caja extension to add important information about the current git directory.
